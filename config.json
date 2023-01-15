@@ -1,0 +1,6 @@
+{
+  "MODEL_PATH": "models/model.pickle",
+  "MODEL_TRAIN_DATA_PATH": "/model_train_data",
+  "train_from_scratch": false,
+  "test_image_path": "/data/test_image_2.png"
+}
